@@ -6,7 +6,7 @@
 La Unidad Provincial de Sistemas y Tecnologías de Información (UPSTI) es un organismo dependiente del Ministerio de Economía, Hacienda y Finanzas. Nuestra misión es participar activamente en el desarrollo, innovación, implementación, compatibilización e integración de las tecnologías de la información en el ámbito de la Administración Pública del Gobierno de la Provincia de Formosa.
 
 ### 📚 Guías de Contribución
-La comunidad puede involucrarse colaborando en proyectos abiertos, aportando al desarrollo de nuevas soluciones tecnológicas y sugiriendo mejoras a los sistemas existentes. Para más información sobre cómo contribuir, consulte nuestra [Guía de Contribución](#).
+La comunidad puede involucrarse colaborando en proyectos abiertos, aportando al desarrollo de nuevas soluciones tecnológicas y sugiriendo mejoras a los sistemas existentes. Para más información sobre cómo contribuir, consulte nuestra [Guía de Contribución](https://www.formosa.gob.ar/upsti/).
 
 ### 🔗 Recursos Útiles
 La documentación de nuestros proyectos está disponible en nuestro [portal de documentación](https://www.formosa.gob.ar/upsti/documentos). También proporcionamos tutoriales y otros recursos para facilitar la integración y uso de nuestras tecnologías.
