@@ -9,7 +9,7 @@ La Unidad Provincial de Sistemas y Tecnologías de Información (UPSTI) es un or
 La comunidad puede involucrarse colaborando en proyectos abiertos, aportando al desarrollo de nuevas soluciones tecnológicas y sugiriendo mejoras a los sistemas existentes. Para más información sobre cómo contribuir, consulte nuestra [Guía de Contribución](#).
 
 ### 🔗 Recursos Útiles
-La documentación de nuestros proyectos está disponible en nuestro [portal de documentación](#). También proporcionamos tutoriales y otros recursos para facilitar la integración y uso de nuestras tecnologías.
+La documentación de nuestros proyectos está disponible en nuestro [portal de documentación](https://www.formosa.gob.ar/upsti/documentos). También proporcionamos tutoriales y otros recursos para facilitar la integración y uso de nuestras tecnologías.
 
 ### 📊 Datos Interesantes
 El equipo de UPSTI está compuesto por profesionales dedicados en áreas como desarrollo de sistemas, tecnología de la información y gestión operativa informática. Nos enorgullece nuestra dedicación a la innovación tecnológica y la mejora continua para optimizar la administración pública.
@@ -44,6 +44,6 @@ El Gobierno de la Provincia de Formosa ha iniciado un proceso de Modernización 
 - Portal de Autenticación Único para Municipios y Comisiones de Fomento.
 - Desarrollo de 37 Portales Web Oficiales y sus respectivos sistemas.
 
-Para más detalles sobre nuestros proyectos y cómo puedes colaborar, visita nuestro [sitio web](#).
+Para más detalles sobre nuestros proyectos y cómo puedes colaborar, visita nuestro [sitio web](https://www.formosa.gob.ar/upsti/).
 
 Gracias por ser parte de nuestra comunidad.
